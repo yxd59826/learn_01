@@ -15,7 +15,7 @@
   </property>
   <property name="styleSheet">
    <string notr="true">QMainWindow{
-	background-color:#fff
+	font: 75 20pt &quot;微软雅黑&quot;;
 }
 QPushButton{
 	padding: 9px 15px;
